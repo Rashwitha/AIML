@@ -8,6 +8,9 @@ LAB-02:https://github.com/Rashwitha/AIML/blob/main/LAB_02_AIML.ipynb
 
 LAB-03:https://github.com/Rashwitha/AIML/blob/main/lab3_AIML.ipynb
 
+LAB-04:https://github.com/Rashwitha/AIML/blob/main/lab4_AIML.ipynb
+
+
 
 
 
