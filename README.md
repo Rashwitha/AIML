@@ -22,6 +22,9 @@ LAB-05:https://github.com/Rashwitha/AIML/blob/main/LAB_05_AIML.ipynb
 LAB-06 https://github.com/Rashwitha/Rashwitha/blob/main/LAB_06_AIML.ipynb
 
 LAB-07:https://github.com/Rashwitha/AIML/blob/main/LAB_07_AIML.ipynb
+
+
+
 LAB-08: https://github.com/Rashwitha/AIML/blob/main/LAB_08AIML.ipynb
 
 
