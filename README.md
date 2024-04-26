@@ -30,4 +30,8 @@ LAB-08: https://github.com/Rashwitha/AIML/blob/main/LAB_08AIML.ipynb
 LAB-09 https://github.com/Rashwitha/AIML/blob/main/LAB_09_AIML.ipynb
 
 
+LAB-10 https://github.com/Rashwitha/AIML/blob/main/LAB_10_AIML.ipynb
+
+
+
 
