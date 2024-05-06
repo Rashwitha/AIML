@@ -33,5 +33,9 @@ LAB-09 https://github.com/Rashwitha/AIML/blob/main/LAB_09_AIML.ipynb
 LAB-10 https://github.com/Rashwitha/AIML/blob/main/LAB_10_AIML.ipynb
 
 
+PROJECT LINK:  https://github.com/Rashwitha/AIML/blob/main/FAKE_NEWS_DETECTION.ipynb
+
+
+
 
 
